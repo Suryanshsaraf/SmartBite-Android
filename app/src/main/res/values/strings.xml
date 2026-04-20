@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartBite</string>
+    
+    <!-- Login/Signup -->
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_username">Username</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_signup">Sign Up</string>
+    <string name="text_or">OR</string>
+    <string name="text_no_account">Don\'t have an account?</string>
+    <string name="text_have_account">Already have an account?</string>
+    <string name="role_customer">Customer</string>
+    <string name="role_delivery">Delivery Partner</string>
+    
+    <!-- Customer Dashboard -->
+    <string name="title_restaurants">Restaurants</string>
+    <string name="hint_search">Search restaurants or cuisines</string>
+    <string name="btn_view_menu">View Menu</string>
+    <string name="btn_add_to_cart">Add to Cart</string>
+    <string name="btn_place_order">Place Order</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_orders">Order History</string>
+    
+    <!-- Delivery Dashboard -->
+    <string name="title_active_orders">Active Orders</string>
+    <string name="btn_pick_up">Pick Up Order</string>
+    <string name="btn_deliver">Mark as Delivered</string>
+    <string name="text_order_status">Order Status: %s</string>
+    
+    <!-- Profile -->
+    <string name="title_profile">Profile</string>
+    <string name="hint_phone">Phone Number</string>
+    <string name="hint_address">Delivery Address</string>
+    <string name="btn_save">Save Changes</string>
+    
+    <!-- Messages -->
+    <string name="msg_login_success">Login successful!</string>
+    <string name="msg_signup_success">Account created successfully!</string>
+    <string name="msg_order_placed">Order placed successfully!</string>
+    <string name="msg_order_picked">Order picked up!</string>
+    <string name="msg_order_delivered">Order delivered!</string>
+    <string name="msg_profile_updated">Profile updated successfully!</string>
+    <string name="profile_updated">Profile updated successfully!</string>
+    <string name="error_update_profile">Failed to update profile. Please try again.</string>
+    
+    <!-- Error Messages -->
+    <string name="error_required">This field is required</string>
+    <string name="error_invalid_email">Invalid email address</string>
+    <string name="error_password_length">Password must be at least 6 characters</string>
+    <string name="error_login_failed">Invalid email or password</string>
+    <string name="error_network">Network error. Please try again</string>
+</resources>
