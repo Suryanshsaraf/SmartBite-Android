@@ -49,10 +49,12 @@ SmartBite is a native Android food delivery application built using Java and a l
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="screenshots/screenshot_1.png" width="250" />
-  <img src="screenshots/screenshot_2.png" width="250" />
-  <img src="screenshots/screenshot_3.png" width="250" />
-  <img src="screenshots/screenshot_4.png" width="250" />
-  <img src="screenshots/screenshot_5.png" width="250" />
-  <img src="screenshots/screenshot_6.png" width="250" />
+  <img src="screenshots/screenshot_1.png" height="400" />
+  <img src="screenshots/screenshot_3.png" height="400" />
+  <img src="screenshots/screenshot_4.png" height="400" />
+  <img src="screenshots/screenshot_2.png" height="400" />
+  <br><br>
+  <img src="screenshots/screenshot_5.png" height="400" />
+  <br><br>
+  <img src="screenshots/screenshot_6.png" height="400" />
 </div>
